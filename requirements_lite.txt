@@ -4,7 +4,7 @@ fschat>=0.2.33
 openai>=1.3.6
 fastapi>=0.104.1
 python-multipart
-nltk~=3.8.1
+nltk~=3.9.1
 uvicorn>=0.24.0.post1
 starlette~=0.27.0
 unstructured[docx,csv]==0.11.0 # add pdf if need
